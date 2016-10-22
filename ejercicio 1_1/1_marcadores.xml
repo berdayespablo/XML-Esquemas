@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<marcadores>
-  <marcador>
-    <nombre>W3C</nombre>
-    <uri>http://www.w3.org/</uri>
-  </marcador>
-  <marcador>
-    <nombre>Web Hypertext Application Technology Working Group</nombre>
-    <uri>http://www.whatwg.org/</uri>
-  </marcador>
+<marcadores xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/Users/pabloberdayes/Documents/GitHub/XML-Esquemas/ejercicio%201_1/1_marcadores.xsd">
+ <marcador>
+ <nombre>W3C</nombre>
+ <uri>http://www.w3.org/</uri>
+ </marcador>
+ <marcador>
+ <nombre>Web Hypertext Application Technology Working Group</nombre>
+ <uri>http://www.whatwg.org/</uri>
+ </marcador>
 </marcadores>
